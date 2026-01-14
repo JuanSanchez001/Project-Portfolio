@@ -8,6 +8,10 @@ body {
     background-attachment: fixed;
 }
 
+footer {
+  background-color: #eee;
+}
+
 .screenshots{
   max-width:100%;
   max-height: 300px;
